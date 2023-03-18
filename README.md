@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmad_Naeem
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning microcontrller architecture, Embedded C, ARM processors, FreeRToS etc...
+- 🌱 A student attitude.
 - 💞️ I’m looking to collaborate on commercial, industrial  embedded products
 - 📫 How to reach me write me on ahmad01sultan@gmail.com
 
